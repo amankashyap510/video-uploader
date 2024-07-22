@@ -4,6 +4,7 @@ import CreateAccount from './pages/CreateAccount';
 import Login from './pages/Login';
 import UploadData from './pages/UploadData';
 
+// Routes
 function App() {
     return (
         <Router>
